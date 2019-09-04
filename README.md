@@ -2,7 +2,7 @@
 
 This is my implementation of a neural network structure. The agents learn through a neuro-evolution algorithm that I created.
 
-How the algorithm works:
+# How the algorithm works:
 An initial population of agents with random parameters is created, then for each generation:
 
 ->the agents' fitness(how good they are at performing the task at hand) is calculated for the entire population
@@ -11,8 +11,8 @@ An initial population of agents with random parameters is created, then for each
 
 ->the same process is repeated with the new generation
 
+# Understanding the numbers:
 
-Understanding the numbers:
 After each generation, the following will print:
 
 Best fitness value: #    this is the fitness value for the best performing agent in this generation
@@ -21,8 +21,7 @@ Average fitness value: # this is the average of all fitness values in this gener
 
 Moving to generation #!  this is the new generation number
 
-
-There are three simple tests that show what the neural network is capable of:
+# There are three simple tests that show what the neural network is capable of:
 
 (1)Phrase prediction:
 
