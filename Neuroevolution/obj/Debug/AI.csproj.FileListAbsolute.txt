@@ -1,0 +1,7 @@
+C:\Users\cardo\OneDrive\Projects\Game\AI\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\cardo\OneDrive\Projects\Game\AI\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\cardo\OneDrive\Projects\Game\AI\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\cardo\OneDrive\Projects\Game\AI\ConsoleApp1\obj\Debug\AI.csprojAssemblyReference.cache
+C:\Users\cardo\OneDrive\Projects\Game\AI\ConsoleApp1\obj\Debug\AI.csproj.CoreCompileInputs.cache
+C:\Users\cardo\OneDrive\Projects\Game\AI\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\cardo\OneDrive\Projects\Game\AI\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

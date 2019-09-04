@@ -1,0 +1,5 @@
+/home/cesar/Desktop/Game/Neuroevolution/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/cesar/Desktop/Game/Neuroevolution/bin/Debug/Neuroevolution.pdb
+/home/cesar/Desktop/Game/Neuroevolution/bin/Debug/Neuroevolution.exe
+/home/cesar/Desktop/Game/Neuroevolution/obj/Debug/Neuroevolution.exe
+/home/cesar/Desktop/Game/Neuroevolution/obj/Debug/Neuroevolution.pdb
